@@ -1,6 +1,10 @@
 # Go ITU Zone Info Package
 
-
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/logocomune/go-itu-zone)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/logocomune/go-itu-zone/go.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/logocomune/go-itu-zone)](https://pkg.go.dev/github.com/logocomune/go-itu-zone)
+[![codecov](https://codecov.io/gh/logocomune/go-itu-zone/graph/badge.svg?token=eYJb9GpvvA)](https://codecov.io/gh/logocomune/go-itu-zone)
+[![Go Report Card](https://goreportcard.com/badge/github.com/logocomune/go-itu-zone)](https://goreportcard.com/report/github.com/logocomune/go-itu-zone)
 
 
 This repository contains a Go package to retrieve information about ITU Zones (International Telecommunication Union
